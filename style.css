@@ -1,0 +1,36 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: black;
+    color:  #fff ;
+    text-align: center;
+    padding: 20px;
+}
+p{
+    font-weight: bolder;
+}
+.container{
+    
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+.data-item {
+    margin-bottom: 10px;
+}
+.data-item label{
+  font-weight: bolder;
+}
+footer{
+    background-color: black;
+    text-align: center;
+    padding: 20px;
+}
+footer a{
+    color:  #fff ;
+}
